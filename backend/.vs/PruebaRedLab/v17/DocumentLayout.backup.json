@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|c:\\git\\pruebaloginjwt\\pruebaredlab\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|solutionrelative:custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|c:\\git\\pruebaloginjwt\\pruebaredlab\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|solutionrelative:controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|c:\\git\\pruebaloginjwt\\pruebaredlab\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|c:\\git\\pruebaloginjwt\\pruebaredlab\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|c:\\git\\pruebaloginjwt\\pruebaredlab\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|solutionrelative:models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|c:\\git\\pruebaloginjwt\\pruebaredlab\\models\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|solutionrelative:models\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|c:\\git\\pruebaloginjwt\\pruebaredlab\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|c:\\git\\pruebaloginjwt\\pruebaredlab\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|solutionrelative:contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|c:\\git\\pruebaloginjwt\\pruebaredlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|c:\\git\\pruebaloginjwt\\pruebaredlab\\migrations\\usuario\\20250926175114_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9800D842-CD4F-4AC1-82E7-DD6B17B1EB46}|PruebaRedLab.csproj|solutionrelative:migrations\\usuario\\20250926175114_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Custom\\Utilidades.cs",
+              "RelativeDocumentMoniker": "Custom\\Utilidades.cs",
+              "ToolTip": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Custom\\Utilidades.cs",
+              "RelativeToolTip": "Custom\\Utilidades.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:20:08.178Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:22:32.402Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "Controllers\\AccesoController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:31:29.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Models\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Models\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:43:40.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Models\\DTO\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\UsuarioDTO.cs",
+              "ToolTip": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Models\\DTO\\UsuarioDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:19:24.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:40:45.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:32:10.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:40:49.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:23:30.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250926175114_Usuarios.cs",
+              "DocumentMoniker": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Migrations\\Usuario\\20250926175114_Usuarios.cs",
+              "RelativeDocumentMoniker": "Migrations\\Usuario\\20250926175114_Usuarios.cs",
+              "ToolTip": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\Migrations\\Usuario\\20250926175114_Usuarios.cs",
+              "RelativeToolTip": "Migrations\\Usuario\\20250926175114_Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:51:14.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
