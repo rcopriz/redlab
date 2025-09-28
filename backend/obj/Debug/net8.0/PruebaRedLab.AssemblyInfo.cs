@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebaRedLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beda5f4086e39b6ab6419ec6e3852c98bae1d119")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebaRedLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebaRedLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

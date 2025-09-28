@@ -15,13 +15,14 @@ services:
       - /home/redlab/docker_volumes/sqlserver: /var/opt/mssql/data # Mapeo de carpeta
 
   webapp:
-    image: mcr.microsoft.com/dotnet/aspnet:8.0
+    #image: mcr.microsoft.com/dotnet/aspnet:8.0
     container_name: netcore8_webapp
-   # build:
-   #   context: ./WebApp    # Ruta donde está tu proyecto .NET 8
-   #   dockerfile: Dockerfile
+    build:
+      context: ./backend    # Ruta donde está tu proyecto .NET 8
+      dockerfile: ../Dockerfile_netcore
     ports:
-      - "8080:80"  
+      - "8080:8080" 
+      - "8081:8081"  
       - "8443:443"        # Redirige el puerto 80 del contenedor al 5000 del host
     environment:
       - ASPNETCORE_ENVIRONMENT=${ASPNETCORE_ENVIRONMENT}

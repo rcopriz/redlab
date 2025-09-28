@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\PruebaRedLab.csproj": {}
+    "C:\\git\\PruebaRedlab\\redlab\\backend\\PruebaRedLab.csproj": {}
   },
   "projects": {
-    "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\PruebaRedLab.csproj": {
+    "C:\\git\\PruebaRedlab\\redlab\\backend\\PruebaRedLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\PruebaRedLab.csproj",
+        "projectUniqueName": "C:\\git\\PruebaRedlab\\redlab\\backend\\PruebaRedLab.csproj",
         "projectName": "PruebaRedLab",
-        "projectPath": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\PruebaRedLab.csproj",
+        "projectPath": "C:\\git\\PruebaRedlab\\redlab\\backend\\PruebaRedLab.csproj",
         "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\pruebaLoginJWT\\PruebaRedLab\\obj\\",
+        "outputPath": "C:\\git\\PruebaRedlab\\redlab\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
