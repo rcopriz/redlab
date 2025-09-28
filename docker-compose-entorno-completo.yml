@@ -11,8 +11,8 @@ services:
       SA_PASSWORD: "RicardoCopriz2025"
     ports:
       - "1433:1433"
-    volumes:
-      - /home/redlab/docker_volumes/sqlserver:/var/opt/mssql/data # Mapeo de carpeta
+    #volumes:
+    #  - /home/redlab/docker_volumes/sqlserver:/var/opt/mssql/data # Mapeo de carpeta
 
   webapp:
     #image: mcr.microsoft.com/dotnet/aspnet:8.0
