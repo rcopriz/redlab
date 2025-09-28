@@ -1,0 +1,52 @@
+version: "3.9"
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    #image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: sqlserver
+    restart: always
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "RicardoCopriz2025"
+    ports:
+      - "1433:1433"
+    volumes:
+      - /home/redlab/docker_volumes/sqlserver: /var/opt/mssql/data # Mapeo de carpeta
+
+  webapp:
+    image: mcr.microsoft.com/dotnet/aspnet:8.0
+    container_name: netcore8_webapp
+   # build:
+   #   context: ./WebApp    # Ruta donde está tu proyecto .NET 8
+   #   dockerfile: Dockerfile
+    ports:
+      - "8080:80"  
+      - "8443:443"        # Redirige el puerto 80 del contenedor al 5000 del host
+    environment:
+      - ASPNETCORE_ENVIRONMENT=${ASPNETCORE_ENVIRONMENT}
+      - ConnectionStrings__conexion=server=sqlserver,1433;user=sa,password=RicardoCopriz2025;database=redlab;
+#      - ConnectionStrings__DefaultConnection=server=db;user=root;password=secret;database=appdb
+    depends_on:
+      - sqlserver
+    mem_limit: 256m
+    restart: unless-stopped
+  
+  app_typescript:
+    image: node:20
+    container_name: ts_app
+    # build:
+    #   context: .
+    #   dockerfile: Dockerfile.dev   # puedes usar tu Dockerfile personalizado
+    # working_dir: /app
+    volumes:
+      - /home/redlab/docker_volumes/typescript:/app
+    command: npm run dev
+    ports:
+      - "80:3000"
+      - "443:443"
+    depends_on:
+      - webapp
+    environment:
+      - NODE_ENV=${NODE_ENV}
+    
